@@ -1,3 +1,5 @@
+# Пример Реакт кода для внедрения в проект.
+
 # Проект развернут с помощью Create React App
 (https://github.com/facebook/create-react-app).
 
