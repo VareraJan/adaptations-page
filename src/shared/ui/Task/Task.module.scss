@@ -1,0 +1,32 @@
+.task {
+  width: 823px;
+  height: 69px;
+  margin-top: 15px;
+  padding: 0 26px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.taskStatus {
+  display: flex;
+  align-items: center;
+
+  img {
+    margin-left: 10px;
+  }
+}
+
+.success {
+  background-color: var(--task-green);
+}
+
+.expired {
+  background-color: var(--task-red);
+}
+
+.current {
+  background-color: var(--task-blue);
+}
+
+

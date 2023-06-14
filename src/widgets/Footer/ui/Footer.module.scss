@@ -1,0 +1,10 @@
+.footer {
+  height: var(--footer-height);
+  min-width: calc(1280px - var(--navbar-width));
+  max-width: 100%;
+  background: #0670B8;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

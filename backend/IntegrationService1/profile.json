@@ -1,0 +1,39 @@
+{
+    "employee": {
+        "id": 4,
+        "personUin": "0038001848",
+        "subdivisionId": 5899,
+        "login": "RockRua",
+        "name": "Рок",
+        "lastName": "Руанапурович",
+        "middleName": "Тамикаси",
+        "managerId": 7,
+        "department": 5899,
+        "position": "Переговорщик",
+        "phone": null,
+        "phoneOffice": null,
+        "hireDate": "07.11.2022",
+        "probationExpired": "07.02.2023",
+        "email": "RockTamikasi@ruanapur.com",
+        "photo": {
+            "type": "Buffer",
+            "data": []
+        },
+        "companyName": "ООО \"Черная Лагуна\"",
+        "manager": {
+            "lastName": "Виннайт",
+            "middleName": "",
+            "name": "Датч",
+            "photo": {
+                "type": "Buffer",
+                "data": []
+            },
+            "position": "Руководитель"
+        }
+    },
+    "subdivision": {
+        "id": 5899,
+        "name": "Доставка и погрузка"
+    },
+    "tutors": []
+}

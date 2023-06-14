@@ -1,0 +1,17 @@
+.adaptationInfo {
+  display: flex;
+
+  width: 823px;
+  height: 69px;
+  padding: 0 26px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  background-color: var(--task-green);
+
+  a {
+    text-decoration: none;
+  }
+}

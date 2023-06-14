@@ -1,0 +1,13 @@
+.lineContainer {
+  width: 823px;
+  display: flex;
+  justify-content: center;
+}
+
+.line {
+  height: 0;
+  width:814px;
+  
+  /* bg/border */
+  border: 1px solid rgba(0, 65, 102, 0.2);
+}

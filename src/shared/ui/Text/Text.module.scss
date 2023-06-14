@@ -1,0 +1,51 @@
+.title {
+  font: var(--font-l);
+  color: var(--primary-color);
+}
+
+.text {
+  font: var(--font-m);
+  color: var(--primary-color);
+}
+
+.bold {
+  .text {
+    font-weight: bold;
+  }
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
+.center {
+  text-align: center;
+}
+
+.shadowGrey {
+  .text {
+    color: var(--text-shadow-grey);
+  }
+}
+
+.success {
+  .text {
+    color: var(--text-success);
+  }
+}
+
+.expired {
+  .text {
+    color: var(--text-expired);
+  }
+}
+
+.current {
+  .text {
+    color: var(--text-current);
+  }
+}

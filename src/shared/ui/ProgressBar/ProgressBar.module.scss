@@ -1,0 +1,20 @@
+.progressBar {
+  position: relative;
+  width: 200px;
+  height: 48px;
+
+  background-color: var(--progress-bar-primary);
+  
+  .fill {
+    height: 100%;
+   
+    background-color: var(--text-success);
+
+    .text {
+      position: absolute;
+      left: calc(50% - 1rem);
+      top: calc(50% - 1rem);
+    }
+  }
+}
+
